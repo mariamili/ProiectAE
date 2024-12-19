@@ -1,0 +1,44 @@
+/* Form wrapper */
+.formWrapper {
+    width: 100%;
+    max-width: 1000px; /* Ensures the form doesn't stretch too wide */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Input fields */
+  .formInput {
+    width: 100%; /* Ensures inputs take up 80% of the form's width */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; /* Larger font for better readability */
+    box-sizing: border-box;
+  }
+  
+  /* Buttons */
+  .loginButtonsWrapper button {
+    width: 120px; /* Sets a fixed width for buttons */
+    padding: 10px;
+    margin: 0 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .loginButtonsWrapper .green-button {
+    background-color: #28a745; /* Green for login */
+    color: white;
+  }
+  
+  .loginButtonsWrapper .blue-button {
+    background-color: #007bff; /* Blue for register */
+    color: white;
+  }
+  

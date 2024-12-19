@@ -1,0 +1,92 @@
+[
+    {
+        "id": 21,
+        "title": "Men's Stylish Leather Shoes",
+        "price": 79.99,
+        "description": "Premium quality leather shoes perfect for formal and casual occasions.",
+        "category": "men's clothing",
+        "image": "https://th.bing.com/th/id/R.4bf54ef8470bad7f9036c33c5e119521?rik=MxDCJSJ%2fE01gsg&pid=ImgRaw&r=0",
+        "rating": { "rate": 4.4, "count": 210 }
+    },
+    {
+        "id": 22,
+        "title": "Women's Elegant Evening Dress",
+        "price": 120.00,
+        "description": "A beautiful evening dress designed for elegance and comfort.",
+        "category": "women's clothing",
+        "image": "https://th.bing.com/th/id/OIP.zkFFbr7Ul76iRl4S0YkgkgHaMV?rs=1&pid=ImgDetMain",
+        "rating": { "rate": 4.6, "count": 180 }
+    },
+    {
+        "id": 23,
+        "title": "Gold Plated Pendant Necklace",
+        "price": 59.99,
+        "description": "A beautiful gold plated necklace with a heart-shaped pendant.",
+        "category": "jewelery",
+        "image": "https://th.bing.com/th/id/OIP.aVmJQzXykpXGwx-l-FgPZQHaF_?w=223&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "rating": { "rate": 4.8, "count": 320 }
+    },
+    {
+        "id": 24,
+        "title": "Luxury Leather Wallet",
+        "price": 29.99,
+        "description": "Compact and stylish leather wallet for men and women.",
+        "category": "jewelery",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDWe9SKn0BqyVmxF0PCbfpCIF72555fU84g&s",
+        "rating": { "rate": 4.7, "count": 250 }
+    },
+    {
+        "id": 25,
+        "title": "Stylish Summer Hat",
+        "price": 19.99,
+        "description": "Lightweight and breathable summer hat perfect for sunny days.",
+        "category": "women's clothing",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrehhYwSYydtAI5J578iM5rcT0JFL0CjhI7Q&s",
+        "rating": { "rate": 4.2, "count": 145 }
+    },
+    {
+        "id": 26,
+        "title": "Men's Casual Hoodie",
+        "price": 35.99,
+        "description": "Soft and comfortable hoodie ideal for casual outings.",
+        "category": "men's clothing",
+        "image": "https://th.bing.com/th/id/OIP.-tARUzJWdyy0acHgrg6nsQHaIZ?w=208&h=236&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "rating": { "rate": 4.3, "count": 180 }
+    },
+    {
+        "id": 27,
+        "title": "Handmade Silver Earrings",
+        "price": 14.99,
+        "description": "Beautiful handmade silver earrings perfect for any occasion.",
+        "category": "jewelery",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVsuKwIoUx6m2xTKgVGMZowwKDaJi1PvWm9Q&s",
+        "rating": { "rate": 4.9, "count": 200 }
+    },
+    {
+        "id": 28,
+        "title": "Women's Winter Jacket",
+        "price": 56.99,
+        "description": "Warm and cozy winter jacket suitable for cold weather.",
+        "category": "women's clothing",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtc8OTgfdSNUAfiwNYHoaxyIllKWk6pwsUOQ&s",
+        "rating": { "rate": 4.6, "count": 280 }
+    },
+    {
+        "id": 29,
+        "title": "Women's Summer Dress",
+        "price": 35.99,
+        "description": "Light and comfortable dress perfect for summer.",
+        "category": "women's clothing",
+        "image": "https://shopluu.com/cdn/shop/products/098_800x.jpg?v=1590817739",
+        "rating": { "rate": 4.5, "count": 300 }
+    },
+    {
+        "id": 30,
+        "title": "Men's Denim Jeans",
+        "price": 49.99,
+        "description": "Classic and durable denim jeans for everyday use.",
+        "category": "men's clothing",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTPRDDuJ3KGjEJhZGIWxlOpYjyrpFEwdNc68oDMBcPElXmNmIexdWsLf1xmdOoEBxu0XecKGKmG-45BkGcdIG0UthiNTlzrgEq7xeWRIARSBnwJ5HCWTFrW",
+        "rating": { "rate": 4.2, "count": 150 }
+    }
+]

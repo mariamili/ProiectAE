@@ -1,0 +1,47 @@
+.navbarWrapper {
+    display: flex;
+    justify-content: space-between; /* Space out the elements */
+    align-items: center; /* Align items vertically */
+    background-color: #C9E4DE; /* Nice green background */
+    padding: 10px 20px; /* Add some padding around the navbar */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a shadow for depth */
+    color: white; /* Set text color to white */
+    font-family: Arial, sans-serif; /* Use a clean font */
+  }
+  
+  .navbarWrapper a {
+    text-decoration: none; /* Remove underlines from links */
+    color: white; /* Ensure link text is white */
+    font-size: 16px; /* Make text slightly larger */
+    margin: 0 10px; /* Add spacing between links */
+    padding: 8px 12px; /* Add padding around links for clickability */
+    border-radius: 5px; /* Add rounded corners */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+  }
+  
+  .navbarWrapper a:hover {
+    background-color: #C6DEF1; /* Slightly darker green on hover */
+  }
+  
+  .navbarWrapper a span {
+    font-size: 14px; /* Slightly smaller font size for cart count */
+    font-weight: bold; /* Make the cart count stand out */
+  }
+  
+  .navbarWrapper i {
+    margin-right: 4px; /* Add spacing after the icon */
+  }
+  
+  .navbarWrapper .active {
+    background-color: #C9E4DE; /* Highlight the active link */
+  }
+  
+  .navbarWrapper a.logout {
+    background-color: #E76F51; /* Red background for logout */
+    color: white; /* White text for logout */
+  }
+  
+  .navbarWrapper a.logout:hover {
+    background-color: #d32f2f; /* Darker red on hover */
+  }
+  
